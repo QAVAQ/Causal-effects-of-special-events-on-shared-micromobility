@@ -1,0 +1,7 @@
+Prompt 1: Find the similarity across those events' names in the list. Try to categorize all these events in the text into a few categories, no more than six. Make the class name reasonable. (Attach all event names in the small events dataset.)
+
+Prompt 2: Good work. Now, try to combine some of the similar categories and merge them into three classes.
+
+Prompt 3: Thank you. Now, please forget all previous results and redo the classification into four classes.
+
+Prompt 4: Thank you. Now, please forget all previous results and redo the classification into five classes.
